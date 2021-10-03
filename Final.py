@@ -6,7 +6,7 @@ import requests
 
 client=amino.Client()
 
-client.login(email="kknkk1223@gmail.com",password="912850")
+client.login(email=fghji@gmail.com",password="gfffr50")
 
 print("logged in.....")
 
